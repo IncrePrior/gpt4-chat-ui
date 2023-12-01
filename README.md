@@ -12,7 +12,7 @@ This project is a simple React-based chat interface that uses Next.js and commun
 
 ## **Getting Started**
 
-These instructions will help you set up the project on your local machine.
+These steps will help you set up the project on your local machine.
 
 ### **Prerequisites**
 
